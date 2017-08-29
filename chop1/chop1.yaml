@@ -1,0 +1,48 @@
+items:
+    - Sandwiches: blah
+    - Espress Drinks:
+        - Americano:
+            description: some Description
+            photo_url: blah
+            options:
+                - Size
+                - Heavy Cream
+                - Water
+                - Sweetner
+                - Room
+        - Coffee Latte:
+            description: some description
+            photo_url: blah
+            options:
+                - Size
+                - Sweetner
+    - Iced Coffee: blah
+options:
+    - Size:
+        - Short
+        - Tall
+        - Grande
+        - Venti
+    - Water:
+        - No
+        - Light
+        - Regular
+        - Extra
+    - 2% Milk:
+        - None
+        - Light
+        - Regular
+        - Extra
+    - Heavy Cream:
+        - None
+        - Light
+        - Regular
+        - Extra
+    - Sweetner:
+        - Honey: 1
+        - Sugar: 1
+    - Room:
+        - No
+        - Light
+        - Regular
+        - Extra
